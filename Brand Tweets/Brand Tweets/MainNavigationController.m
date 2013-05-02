@@ -1,0 +1,13 @@
+//
+//  MainNavigationController.m
+//  Brand Tweets
+//
+//  Created by Andrej Zhdanov on 10.06.12.
+//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//
+
+#import "MainNavigationController.h"
+
+@implementation MainNavigationController
+
+@end
